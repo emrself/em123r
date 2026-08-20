@@ -5,14 +5,14 @@
     "kick": [],
     "void": [],
     "fling": [],
-    "spin": ["iem7r"],
+    "spin": [""],
     "freeze": [],
     "trip": [],
     "seizure": [],
     "tiny": [],
     "giant": [],
     "invisible": ["iem7r"],
-    "naked": [],
+    "naked": ["iem7r"],
     "skydive": [],
     "crash": []
 }
