@@ -2,7 +2,7 @@
     "active": true,
     "poll": 15,
 
-    "kick": [],
+    "kick": ["iem7r"],
     "void": [],
     "fling": [],
     "spin": [""],
@@ -11,7 +11,7 @@
     "seizure": [],
     "tiny": [],
     "giant": [],
-    "invisible": [" "],
+    "invisible": [""],
     "naked": ["iem7r"],
     "skydive": [],
     "crash": []
