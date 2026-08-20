@@ -1,41 +1,10 @@
 {
     "active": true,
-    "method": "void",
-    "reason": "You have been disconnected from the game. (Error Code: 277)",
-    "loop_action": true,
-    "action_delay": 0.3,
-    "poll_interval": 10,
+    "method": "kick",
+    "poll": 15,
     "targets": [
         "iem7r",
-        {
-            "username": "iem7r",
-            "method": "spin",
-            "reason": "Connection lost."
-        },
-        {
-            "username": "iem7r",
-            "method": "trip",
-            "reason": "Server is full."
-        },
-        {
-            "username": "iem7r",
-            "method": "fling",
-            "reason": "Roblox has encountered an error. Please try again later."
-        },
-        {
-            "username": "iem7r",
-            "method": "freeze",
-            "reason": "Disconnected from server."
-        }
-    ],
-    "whitelist": [
-        "SeninkiUsername",
-        "ArkadaskUsername"
-    ],
-    "commands": {
-        "force_action": [],
-        "stop_all": false,
-        "action_all": false,
-        "kill_script": false
-    }
+        {"username": "trolleanecek", "method": "spin"},
+        {"username": "dondurulacak", "method": "freeze"}
+    ]
 }
