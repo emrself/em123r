@@ -3,8 +3,8 @@
     "method": "kick",
     "poll": 15,
     "targets": [
-        "iem7r",
-        {"username": "trolleanecek", "method": "spin"},
+        " ",
+        {"username": "iem7r", "method": "spin"},
         {"username": "dondurulacak", "method": "freeze"}
     ]
 }
