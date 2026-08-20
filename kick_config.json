@@ -4,7 +4,7 @@
     "reason": "You have been disconnected from the game. (Error Code: 277)",
     "loop_action": true,
     "action_delay": 0.3,
-    "poll_interval": 25,
+    "poll_interval": 10,
     "targets": [
         "HedefUsername1",
         {
