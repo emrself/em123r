@@ -8,22 +8,22 @@
     "targets": [
         "iem7r",
         {
-            "username": "TrollHedef",
+            "username": "iem7r",
             "method": "spin",
             "reason": "Connection lost."
         },
         {
-            "username": "SinirEdilecek",
+            "username": "iem7r",
             "method": "trip",
             "reason": "Server is full."
         },
         {
-            "username": "UcurulacakKisi",
+            "username": "iem7r",
             "method": "fling",
             "reason": "Roblox has encountered an error. Please try again later."
         },
         {
-            "username": "DondurulacakKisi",
+            "username": "iem7r",
             "method": "freeze",
             "reason": "Disconnected from server."
         }
