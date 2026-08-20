@@ -1,10 +1,18 @@
 {
     "active": true,
-    "method": "kick",
     "poll": 15,
-    "targets": [
-        " ",
-        {"username": "iem7r", "method": "spin"},
-        {"username": "dondurulacak", "method": "freeze"}
-    ]
+
+    "kick": [],
+    "void": [],
+    "fling": [],
+    "spin": ["iem7r"],
+    "freeze": [],
+    "trip": [],
+    "seizure": [],
+    "tiny": [],
+    "giant": [],
+    "invisible": [],
+    "naked": [],
+    "skydive": [],
+    "crash": []
 }
