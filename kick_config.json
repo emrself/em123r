@@ -1,6 +1,6 @@
 {
     "active": true,
-    "poll": 5,
+    "poll": 200,
 
     "kick": [""],
     "void": [],
