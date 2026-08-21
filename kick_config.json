@@ -1,11 +1,11 @@
 {
     "active": true,
-    "poll": 60,
+    "poll": 5,
 
     "kick": [""],
     "void": [],
     "fling": [],
-    "spin": [""],
+    "spin": ["thvex1"],
     "freeze": [""],
     "trip": [],
     "seizure": [],
