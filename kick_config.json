@@ -1,8 +1,8 @@
 {
     "active": true,
-    "poll": 40,
+    "poll": 25,
 
-    "kick": ["thvex1"],
+    "kick": [""],
     "void": [],
     "fling": [],
     "spin": ["thvex1"],
@@ -10,7 +10,7 @@
     "trip": [],
     "seizure": [],
     "tiny": [],
-    "giant": ["thvex1"],
+    "giant": [""],
     "invisible": [""],
     "naked": ["thvex1"],
     "skydive": [],
