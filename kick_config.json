@@ -1,5 +1,5 @@
 {
-    "active": true,
+    "active": false,
     "poll": 60,
 
     "kick": [""],
