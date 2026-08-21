@@ -9,10 +9,10 @@
     "freeze": [],
     "trip": [],
     "seizure": [],
-    "tiny": ["thvex1"],
+    "tiny": [" "],
     "giant": [""],
     "invisible": [""],
     "naked": [""],
-    "skydive": [],
+    "skydive": ["thvex1"],
     "crash": []
 }
