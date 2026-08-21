@@ -5,7 +5,7 @@
     "kick": [""],
     "void": [],
     "fling": [],
-    "spin": ["thvex1"],
+    "spin": [""],
     "freeze": [""],
     "trip": [],
     "seizure": [],
@@ -13,6 +13,6 @@
     "giant": [""],
     "invisible": [""],
     "naked": [""],
-    "skydive": [""],
+    "skydive": ["thvex1"],
     "crash": []
 }
