@@ -1,6 +1,6 @@
 {
     "active": true,
-    "poll": 15,
+    "poll": 40,
 
     "kick": ["iem7r"],
     "void": [],
